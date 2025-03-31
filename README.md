@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Davi Sorrentino Brilhante</h1>
-<h3 align="left">A computer engineering student at Centro de Informática at UFPE</h3>
+<h3 align="left">A computer engineering student at CIn - UFPE</h3>
 
 - 🌱 I’m currently learning **SciKitLearn**
 
