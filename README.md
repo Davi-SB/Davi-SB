@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SciKitLearn**
 
-- 📫 How to reach me **dsb6@cin.ufpe.br**
+- 📫 How to reach me **davibrilhante0102@gmail.com**
 
 - 🔵 Connect with me on [Linkedin](https://www.linkedin.com/in/davi-brilhante-623059279/)
 
