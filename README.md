@@ -10,6 +10,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=Davi-SB&show_icons=true&locale=en&layout=compact&theme=dark" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=Davi-SB&show_icons=true&locale=en&layout=compact&theme=dark&hide=Verilog" 
        alt="Davi-SB" />
 </p>
