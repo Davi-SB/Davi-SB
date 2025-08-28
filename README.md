@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Davi Sorrentino Brilhante</h1>
 <h3 align="left">A computer engineering student at CIn - UFPE</h3>
 
-- 🌱 I’m currently learning **SciKitLearn**
+- 🌱 I’m currently learning **YOLO**
 
 - 📫 How to reach me **davibrilhante0102@gmail.com**
 
